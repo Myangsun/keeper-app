@@ -1,12 +1,12 @@
 import React from "react";
-import HighlightIcon from "@material-ui/icons/Highlight";
+import EventNoteIcon from "@material-ui/icons/EventNote";
 
 function Header() {
   return (
     <header>
       <h1>
-        <HighlightIcon />
-        Keeper
+        <EventNoteIcon />
+        Note Keeper
       </h1>
     </header>
   );
